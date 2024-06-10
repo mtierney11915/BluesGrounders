@@ -14,7 +14,8 @@ alt.themes.enable("dark")
 col= st.columns([5, 2])  # Divide the space into three equal columns
 
 #Read in Data
-df=pd.read_csv('C:\Users\Matt Tierney\OneDrive\2024 Bristol Blues\Ground Balls\Blues Ground Ball CSV.csv')
+#df=pd.read_csv('C:\Users\Matt Tierney\OneDrive\2024 Bristol Blues\Ground Balls\Blues Ground Ball CSV.csv')
+df=pd.read_csv('Blues Ground Ball CSV.csv')
 
 #Subset Game Column
 game_column = df['Game'].tolist()
