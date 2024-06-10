@@ -1,0 +1,35 @@
+Ground Ball ID,Game,Game Date,Opponent,Fielder ,Pitcher ,Pitch Type,Position,Lane,Hop,Hands,Arm Slot,Footwork,Play At,Error (Y/N),Error Comment
+GB00001,6-4 vs Danbury,4-Jun,Danbury,Brady Short,Michael Lorenzetti,CH,2nd,Forehand,In-Between,One,Over The Top,Gather,1st,No,
+GB00002,6-4 vs Danbury,4-Jun,Danbury,Jordan Peyton,Michael Lorenzetti,FB,SS,Forehand,Long,One,Side,On the run,1st,No,
+GB00003,6-4 vs Danbury,4-Jun,Danbury,Brady Short,Michael Lorenzetti,CH,2nd,Middle,Short,One,Flip,On the run,2nd,No,
+GB00004,6-4 vs Danbury,4-Jun,Danbury,Jordan Peyton,Michael Lorenzetti,FB,SS,Middle,Short,Two,Low,On the run,1st,No,
+GB00005,6-4 vs Danbury,4-Jun,Danbury,Jordan Peyton,Michael Lorenzetti,CH,SS,Backhand,Long,One,error,error,1st,Yes,Fielding error
+GB00006,6-4 vs Danbury,4-Jun,Danbury,Brady Short,Kevin Kell,CB,2nd,Forehand,Short,One,Side,2 step,1st,No,
+GB00007,6-4 vs Danbury,4-Jun,Danbury,Cal Parrillo,Kevin Kell,CB,1st,Middle,In-Between,Two,Take,Take,1st,No,
+GB00008,6-4 vs Danbury,4-Jun,Danbury,Michael Zarrillo,Kevin Kell,CB,3rd,Backhand,Short,One,error,error,1st,Yes,Fielding error
+GB00009,6-4 vs Danbury,4-Jun,Danbury,Jordan Peyton,Kevin Kell,CB,SS,Forehand,Long,One,Over The Top,Spin,1st,Yes,Throw wasn't scooped
+GB00010,6-4 vs Danbury,4-Jun,Danbury,Jordan Peyton,Topolski,FB,SS,Forehand,In-Between,One,Side,On the run,1st,No,
+GB00011,6-4 vs Danbury,4-Jun,Danbury,Jordan Peyton,Carson Renner,FB,SS,Forehand,Short,One,error,error,1st,Yes,Fielding error
+GB00012,6-4 vs Danbury,4-Jun,Danbury,Jordan Peyton,Carson Renner,SL,SS,Middle,In-Between,Two,Flip,2 step,2nd,No,
+GB00013,6-7 Vs Danbury,7-Jun,Danbury,Jordan Peyton,Jackson Kossow,FB,SS,Backhand,In-Between,One,Side,2 step,1st,No,
+GB00014,6-7 Vs Danbury,7-Jun,Danbury,Dean Ferrara,Jackson Kossow,FB,3rd,Forehand,Roll,One,Side,On the run,1st,No,
+GB00015,6-7 Vs Danbury,7-Jun,Danbury,JT Landwehr,Andrew Gormley,SL,2nd,Forehand,Long,One,Over The Top,Gather,1st,Yes,Throwing
+GB00016,6-7 Vs Danbury,7-Jun,Danbury,Dean Ferrara,Andrew Gormley,FB,3rd,Middle,Short,One,Over The Top,4 step,1st,No,
+GB00017,6-7 Vs Danbury,7-Jun,Danbury,JT Landwehr,Andrew Gormley,FB,2nd,Middle,In-Between,Two,Side,Gather,1st,No,
+GB00018,6-7 Vs Danbury,7-Jun,Danbury,Jordan Peyton,logan waltz,FB,SS,Forehand,In-Between,One,Flip,2 step,2nd,No,
+GB00019,6-7 Vs Danbury,7-Jun,Danbury,Jordan Peyton,logan waltz,SL,SS,Middle,Long,Two,Low,On the run,1st,No,
+GB00020,6-9 vs Newport,9-Jun,Newport,Michael Zarrillo,JT Landwehr,FB,1st,Backhand,Long,One,Over The Top,Gather,1st,No,
+GB00021,6-9 vs Newport,9-Jun,Newport,Brady Short,JT Landwehr,FB,2nd,Forehand,In-Between,One,Side,Gather,1st,No,
+GB00022,6-9 vs Newport,9-Jun,Newport,Jordan Peyton,JT Landwehr,FB,SS,Forehand,Roll,One,error,error,1st,Yes,bad hop
+GB00023,6-9 vs Newport,9-Jun,Newport,Michael Zarrillo,Carson Renner,FB,1st,Forehand,Roll,One,Over The Top,Gather,1st,No,
+GB00024,6-9 vs Newport,9-Jun,Newport,Brady Short,Carson Renner,SL,2nd,Middle,Roll,Two,Over The Top,2 step,1st,No,
+GB00025,6-8 vs North Shore,8-Jun,North Shore,Brady Short,Jimmy Gilleran,FB,2nd,Forehand,Roll,One,Side,On the run,1st,No,
+GB00026,6-8 vs North Shore,8-Jun,North Shore,Brady Short,Jimmy Gilleran,CH,2nd,Forehand,Short,One,Over The Top,On the run,1st,No,
+GB00027,6-8 vs North Shore,8-Jun,North Shore,Dean Ferrara,Jimmy Gilleran,SL,3rd,Middle,Long,Two,Over The Top,4 step,1st,No,
+GB00028,6-8 vs North Shore,8-Jun,North Shore,Dean Ferrara,Jimmy Gilleran,SL,3rd,Backhand,Short,One,Over The Top,Gather,1st,No,
+GB00029,6-8 vs North Shore,8-Jun,North Shore,Brady Short,Chase Topolski,FB,2nd,Middle,Short,Two,Over The Top,Gather,2nd,No,
+GB00030,6-8 vs North Shore,8-Jun,North Shore,Cal Parrillo,Chase Topolski,FB,1st,Forehand,In-Between,One,Take,Take,1st,No,
+GB00031,6-8 vs North Shore,8-Jun,North Shore,Jordan Peyton,Chase Topolski,FB,SS,Backhand,In-Between,One,Over The Top,4 step,1st,No,
+GB00032,6-8 vs North Shore,8-Jun,North Shore,Brady Short,Chase Topolski,CH,2nd,Middle,Roll,Two,Over The Top,2 step,1st,No,
+GB00033,6-8 vs North Shore,8-Jun,North Shore,Jordan Peyton,Chase Topolski,SL,SS,Middle,Roll,Two,Side,On the run,1st,No,
+GB00034,6-8 vs North Shore,8-Jun,North Shore,Jordan Peyton,Chase Topolski,CH,SS,Middle,Long,Two,Over The Top,4 step,1st,No,
